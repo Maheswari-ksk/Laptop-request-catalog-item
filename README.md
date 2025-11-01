@@ -104,13 +104,4 @@ This solution can be extended further with integration to **UIPath RPA** or **Ta
 
 ---
 
-## 📸 Screenshots
-> *(Add screenshots of your ServiceNow forms, workflows, and results here.)*
 
----
-
-## 🧾 Author
-**Name:** [Your Name]  
-**Platform:** SmartInternz Guided Project  
-**Role:** ServiceNow System Administrator Intern  
-**Date:** November 2025
